@@ -1,3 +1,3 @@
-<maria> <kozlak>
-<nr 13>
-<32179>
+maria kozlak
+nr 13
+32179
